@@ -1,4 +1,3 @@
-# C#
 # Tratamento de dados
 
 Muitos aplicativos desenvolvidos em C# exigirão que trabalhe usando dados. Talvez os dados sejam capturados por entrada de teclado, ou de um arquivo, ou da Internet. Portanto, é necessário criar estruturas chamadas variáveis que possam armazenar dados na memória à medida que o aplicativo for executado.
